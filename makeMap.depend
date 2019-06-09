@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1560071136 source:d:\download\makemap\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	<Windows.h>
+	<list>
+	"classes.h"
+
+1560072356 d:\download\makemap\classes.h
+	<graphics.h>
+	<iomanip>
+	<fstream>
+
